@@ -1,7 +1,7 @@
 # Tìm hiểu Python
 
 ## Cài đặt Python
-Truy cập trang [Python download](https://www.python.org/downloads/)
+Truy cập trang chính thức của Python [Python download](https://www.python.org/downloads/)
 ## Kiểm tra cài đặt:
 Mở terminal và nhập lệnh: 
 ```bash
